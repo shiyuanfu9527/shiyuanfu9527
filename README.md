@@ -2,7 +2,7 @@
  <p align='center'>
 <a href="https://shiyuanfu9527.github.io/componet-demo/dist/"><img src="https://p3-passport.byteimg.com/img/user-avatar/ee1a1456b52fb7cff320f0f8b8a96698~100x100.awebp" alt="个人demo"></a>
   </p>
- <p aligin = 'center'>
+ <p align = 'center'>
 <img src="https://counter.likepoems.com/get/@:name" alt=":name" />
  </p>
 <p align ='center'>
